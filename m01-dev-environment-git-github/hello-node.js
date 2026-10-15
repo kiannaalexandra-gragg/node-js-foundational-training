@@ -1,2 +1,2 @@
-const greeting = 'Hello from Node.js, trainee';
+const greeting = 'HELLO FROM NODE.JS, TRAINEE';
 console.log(`${greeting} ${process.version}`);
